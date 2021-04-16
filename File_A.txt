@@ -1,0 +1,4 @@
+//Method to print name
+void printName(String name){
+  System.out.println(name);
+}
